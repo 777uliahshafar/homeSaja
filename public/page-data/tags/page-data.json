@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-post-tags-js","path":"/tags","result":{"pageContext":{"tags":["one","two","three"],"tagPostCounts":{"one":7,"two":7,"three":6}}}}
+{"componentChunkName":"component---src-templates-post-tags-js","path":"/tags","result":{"pageContext":{"tags":["one","two","EWS","three"],"tagPostCounts":{"one":7,"two":7,"EWS":1,"three":6}}}}
